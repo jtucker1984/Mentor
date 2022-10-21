@@ -1,0 +1,41 @@
+
+
+    
+
+
+
+    .heading {
+      position: absolute;
+      top: 20%;
+      left: 72%;
+      transform: translate(-50%, -50%);
+      font-size: 30px;
+      font-weight: bold;
+      font-family: 'hammersmith one' ;
+      
+      
+    }
+    .sub-heading{
+      position: absolute;
+      left: 55%;
+      top: 22%;
+      transform: translate(50%, 50%)
+      font-weight: bolder;
+      font-size: 30px;
+      font-family: 'hammersmith one';
+    }
+    .button {
+      position:relative;
+      bottom: 340px;
+      left: 610px;
+      cursor: pointer;
+      height:40px;
+      width: 100px;
+      border-radius: 20px;
+      border-style:none;
+      color: white;
+      background-color: darkorchid;
+      font-size: 13px ;
+      
+      
+
